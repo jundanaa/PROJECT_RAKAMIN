@@ -1,5 +1,5 @@
 # Final Project 
-##  Predict the client will subscribe to a term deposit or not
+###  Predict the client will subscribe to a term deposit or not
 
 
 ##### Dataset 
@@ -10,7 +10,7 @@ Content :
 The data is related to the direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed by the customer or not.
 
 ##### Goals
-to reduce campaign costs by increasing the precision of machine learning in predicting clients will subscribe to a term deposit 
+to reduce campaign costs by increasing the precision of machine learning in predicting clients who will subscribe to a term deposit 
 
 
 ##### What we do
