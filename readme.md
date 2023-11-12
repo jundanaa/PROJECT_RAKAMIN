@@ -16,6 +16,6 @@ to reduce campaign costs by increasing the precision of machine learning in pred
 ##### What we do
 1. Stage 1 [EDA](https://github.com/jundanaa/PROJECT_RAKAMIN/tree/c3bfd7cee813a1499d656308a4c28ee6e75452d5/EDA)
 2. Stage 2 [Preprocessing](https://github.com/jundanaa/PROJECT_RAKAMIN/tree/c3bfd7cee813a1499d656308a4c28ee6e75452d5/Data%20Preprocessing)
-3. Stage 3 [Modeling]
+3. Stage 3 [Modelling]
 
 
